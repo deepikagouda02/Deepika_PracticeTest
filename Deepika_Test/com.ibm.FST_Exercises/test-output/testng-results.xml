@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-20T10:50:47 IST" name="Suite" finished-at="2023-01-20T10:52:18 IST" duration-ms="90575">
+    <groups>
+    </groups>
+    <test started-at="2023-01-20T10:50:47 IST" name="Test" finished-at="2023-01-20T10:52:18 IST" duration-ms="90575">
+      <class name="fst_AssmntExercises.ComputerDatabase">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:fst_AssmntExercises.ComputerDatabase@6fd83fc1]" started-at="2023-01-20T10:50:47 IST" name="launchApp" finished-at="2023-01-20T10:51:40 IST" duration-ms="52296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="computerDatabase()[pri:0, instance:fst_AssmntExercises.ComputerDatabase@6fd83fc1]" started-at="2023-01-20T10:51:40 IST" name="computerDatabase" finished-at="2023-01-20T10:51:58 IST" duration-ms="17999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- computerDatabase -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:fst_AssmntExercises.ComputerDatabase@6fd83fc1]" started-at="2023-01-20T10:51:58 IST" name="closeApp" finished-at="2023-01-20T10:52:18 IST" duration-ms="20254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- fst_AssmntExercises.ComputerDatabase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
